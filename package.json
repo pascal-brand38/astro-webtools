@@ -1,6 +1,6 @@
 {
   "name": "astro-webtools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webtools components dedicated to Astro framework: Neon, Polaroid, PostIt,...",
   "type": "module",
   "scripts": {
